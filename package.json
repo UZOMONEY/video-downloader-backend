@@ -1,0 +1,19 @@
+{
+  "name": "video-downloader-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-basic-auth": "^1.2.1",
+    "yt-dlp-exec": "^1.0.2",
+    "ytdl-core": "^4.11.5"
+  }
+}
